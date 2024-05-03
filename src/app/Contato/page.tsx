@@ -2,8 +2,8 @@
 import { useState } from "react";
 import Button from "../Components/Button";
 import FormInput from "../Components/FormIput";
-import Header from "../Components/Header/page";
-import Footer from "../Components/Footer/page";
+import Header from "../Components/Header";
+import Footer from "../Components/Footer";
 import "./styles.css"
 
 const Contact = () => {

@@ -1,5 +1,5 @@
-import Header from "../Components/Header/page"
-import Footer from "../Components/Footer/page"
+import Header from "../Components/Header"
+import Footer from "../Components/Footer"
 import "./styles.css"
 
 const Sobre = () => {
