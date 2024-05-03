@@ -1,0 +1,42 @@
+.aboutus {
+    background-color: black;
+    color: white;
+}
+
+.sobre {
+    padding: 10px;
+    text-align: center;
+    font-size: 80px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.quem-somos {
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.img2 {
+    margin-left: 50px;
+    
+}
+
+@media (max-width: 480px) {
+}
+
+
+@media (min-width: 481px) and (max-width: 767px) {
+}
+
+
+@media (min-width: 768px) and (max-width: 1024px) {
+}
+
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+}
+
+
+@media (min-width: 1281px) {
+}

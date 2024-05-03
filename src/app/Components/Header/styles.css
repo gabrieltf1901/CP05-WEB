@@ -1,0 +1,22 @@
+Header {
+    background-color: rgb(0, 60, 172);
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border-color: black;
+    border-width: 5px;
+}
+
+.GameToday {
+    color: white;
+    margin-left: 100px;
+    font-size: 1em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.logonba {
+    width: 100px;
+    height: 100px;
+}
+
